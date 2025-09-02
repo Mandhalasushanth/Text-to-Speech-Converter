@@ -44,9 +44,9 @@ Copy code
 cd Text-to-Speech-Translator
 Open index.html in your browser.
 
-🌍 Live Demo
-Deployed on Vercel →🔗 Live Demo
- 🎉
+ ## 🌍 Live Demo
+👉 [Click here to try the app](https://text-to-speech-converter-git-main-mandhalasushanths-projects.vercel.app/)
+
  
 
 🎯 Advantages
