@@ -45,7 +45,8 @@ cd Text-to-Speech-Translator
 Open index.html in your browser.
 
 🌍 Live Demo
-Deployed on Vercel → 🔗 Click Here
+Deployed on Vercel →🔗 Live Demo
+ 🎉
  
 
 🎯 Advantages
